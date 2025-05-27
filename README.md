@@ -24,6 +24,8 @@ While this is a command-line desktop application, it showcases the core image pr
 Follow these steps to build and run the project:
 
 ```terminal
+git clone https://github.com/kumarshivam27december/flam_assignment.git
+cd flam_assignment
 mkdir build
 cd build
 cmake ..
