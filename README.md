@@ -1,6 +1,14 @@
 
 # Real-Time Edge Detection Viewer (C++ with OpenCV)
 
+
+## Demo Video
+
+You can watch a short demonstration of the application running in real time using the link below:
+
+[Demo Video on Google Drive](https://drive.google.com/file/d/1T5rkpbvQZRlMo__QlRhViD1owFr6la4J/view?usp=sharing)
+
+
 This project demonstrates a basic real-time edge detection application using OpenCV in C++. It captures frames from a webcam, processes them using Gaussian blur and Canny edge detection, and displays both the original and processed frames side by side.
 
 While this is a command-line desktop application, it showcases the core image processing pipeline that would typically be used in an Android application involving OpenCV and OpenGL.
@@ -34,12 +42,6 @@ make
 
 
 ```
-
-## Demo Video
-
-You can watch a short demonstration of the application running in real time using the link below:
-
-[Demo Video on Google Drive](https://drive.google.com/file/d/1T5rkpbvQZRlMo__QlRhViD1owFr6la4J/view?usp=sharing)
 
 ## Usage
 
